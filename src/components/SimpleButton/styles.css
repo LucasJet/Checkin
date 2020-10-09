@@ -1,0 +1,12 @@
+a.simple-button {
+  background: var(--color-secondary);
+  border-radius: 0.8rem;
+  text-decoration: none;
+  color: var(--color-button-text);
+  font: 600 1.6rem Archivo;
+  height: 4.6rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
